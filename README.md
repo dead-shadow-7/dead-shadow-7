@@ -5,11 +5,11 @@
 -->
 ## Hi I am Dead Shadøw. 
 
-- 🔭 I’m currently working on DS-pad. A web based text editor. 
+- 🔭 I’m currently working on Discord bot in JavaScript.  
 
-- 🌱 I’m currently learning more about web development . 
+- 🌱 I’m currently learning more about JavaScript  . 
 
-- 👯 I’m looking to collaborate on DS-pad only because that is the only project that I am working on ;)
+- 👯 I’m looking to collaborate on my Discord bot only because that is the only project that I am working on ;)
 
 - 📫 How to reach me: You can email me --> deadshadow12119@gmail.com
 
@@ -17,4 +17,4 @@
 
 - ⚡ Fun fact: I have watched so many game development tutorials but never tried to develop any game 😂😂
 
--->
+
