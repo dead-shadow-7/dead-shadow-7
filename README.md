@@ -5,16 +5,13 @@
 -->
 ## Hi I am Dead Shadøw. 
 
-- 🔭 I’m currently working on Discord bot in JavaScript.  
+- 🔭 I’m currently working on Telegram bot in JavaScript.  
 
-- 🌱 I’m currently learning more about JavaScript  . 
-
-- 👯 I’m looking to collaborate on my Discord bot only because that is the only project that I am working on ;)
+- 🌱 I’m currently learning more about JavaScript and Telegram bot API  . 
 
 - 📫 How to reach me: You can email me --> deadshadow12119@gmail.com
 
 - 😄 Pronouns: You can call me Shadow 😅
 
-- ⚡ Fun fact: I have watched so many game development tutorials but never tried to develop any game 😂😂
-
-
+## My stats
+![Dead Shadow:](https://github-readme-stats.vercel.app/api?username=Dead-Shadow-12119)
