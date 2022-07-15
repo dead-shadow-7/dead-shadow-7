@@ -5,10 +5,10 @@
 -->
 ## Hi I am Dead Shadøw. 
 
-- 🔭 I’m currently working on Telegram bot in JavaScript.  
+- 🔭 I’m currently working on Nothing welp.  
 
-- 🌱 I’m currently learning more about JavaScript and Telegram bot API  . 
-
+<!-- - 🌱 I’m currently learning more about JavaScript and Telegram bot API  . 
+-->
 - 📫 How to reach me: You can email me --> deadshadow12119@gmail.com
 
 - 😄 Pronouns: You can call me Shadow 😅
