@@ -14,4 +14,4 @@
 - 😄 Pronouns: You can call me Shadow 😅
 
 ## My stats
-![Dead Shadow:](https://github-readme-stats.vercel.app/api?username=Dead-Shadow-12119)
+![Dead Shadow:](https://github-readme-stats.vercel.app/api?username=dead-shadow-7)
