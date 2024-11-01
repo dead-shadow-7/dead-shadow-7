@@ -5,7 +5,7 @@
 -->
 ## Hi I am Dead Shadøw. 
 
-- 🔭 I’m currently working on Nothing welp.  
+- 🔭 I’m currently learning about app development.  
 
 <!-- - 🌱 I’m currently learning more about JavaScript and Telegram bot API  . 
 -->
