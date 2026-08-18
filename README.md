@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shivam Rajput 👋</h1>
+<h1 align="center">Hey, I'm Shivam 👋</h1>
 <h3 align="center">Computer Engineer · Backend & AI/ML Engineer</h3>
 
 <p align="center">
@@ -17,6 +17,7 @@ I like building systems where **backend engineering meets AI**: search, RAG, LLM
 ### 🛠️ What I Work With
 
 **Languages**
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -24,6 +25,7 @@ I like building systems where **backend engineering meets AI**: search, RAG, LLM
 </p>
 
 **Backend**
+
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -31,6 +33,7 @@ I like building systems where **backend engineering meets AI**: search, RAG, LLM
 </p>
 
 **AI / ML**
+
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -42,6 +45,7 @@ I like building systems where **backend engineering meets AI**: search, RAG, LLM
 </p>
 
 **Data & Search**
+
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -52,6 +56,7 @@ I like building systems where **backend engineering meets AI**: search, RAG, LLM
 </p>
 
 **Cloud & Infrastructure**
+
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=232F3E" />
